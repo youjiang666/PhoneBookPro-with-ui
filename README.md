@@ -35,7 +35,7 @@ Just run the provided installer (`QtPhoneBookInstaller.exe`) and follow the inst
 ### 💻 Option 2: Build from Source
 
 ```bash
-git clone https://github.com/your-username/QtPhoneBookPro.git
+git clone https://github.com/youjiang666/PhoneBookPro-with-ui.git
 cd QtPhoneBookPro
 mkdir build && cd build
 cmake ..
