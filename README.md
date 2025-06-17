@@ -1,4 +1,4 @@
-# 📇 QtPhoneBookPro
+#  QtPhoneBookPro
 
 A lightweight phonebook application built with **Qt 6.9** and **C++**.  
 Designed for learning, testing, and managing contacts with a user-friendly interface and fast local execution.  
@@ -6,7 +6,7 @@ Includes a one-click installer for quick access.
 
 ---
 
-## ✨ Features
+##  Features
 
 - Modern GUI built with Qt 6.9
 - C++ backend for fast and clear logic
@@ -17,7 +17,7 @@ Includes a one-click installer for quick access.
 
 ---
 
-## 🛠 Development Environment
+##  Development Environment
 
 - **Framework:** Qt 6.9
 - **Language:** C++17
@@ -26,13 +26,13 @@ Includes a one-click installer for quick access.
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
-### 🔧 Option 1: Use Installer
+###  Option 1: Use Installer
 
 Just run the provided installer (`QtPhoneBookInstaller.exe`) and follow the instructions. No Qt installation is required.
 
-### 💻 Option 2: Build from Source
+###  Option 2: Build from Source
 
 ```bash
 git clone https://github.com/youjiang666/PhoneBookPro-with-ui.git
@@ -43,7 +43,7 @@ cmake --build .
 ./QtPhoneBookPro
 Make sure Qt 6.9 is installed and CMake can find it.
 
-📁 Project Structure
+ Project Structure
 
 QtPhoneBookPro/
 ├── CMakeLists.txt            # Build configuration
